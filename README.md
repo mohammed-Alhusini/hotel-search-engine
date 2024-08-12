@@ -1,7 +1,12 @@
 # ALLAM
 
 ## Group Zero Assessment
-### Team Members: Shayi Aldohaim, Mohammed Alhusini, Abdulaziz Althumairy
+### Team Members:
+- Shayi Aldohaim
+- [Mohammed Alhusini](https://github.com/mohammed-Alhusini)
+- Abdulaziz Althumairy[Abdulaziz Althumairy](https://github.com/Aziz-Th)
+
+
 
 ---
 
