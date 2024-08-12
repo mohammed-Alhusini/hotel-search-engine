@@ -2,9 +2,9 @@
 
 ## Group Zero Assessment
 ### Team Members:
-- Shayi Aldohaim
+- [Shayi Aldohaim]
 - [Mohammed Alhusini](https://github.com/mohammed-Alhusini)
-- Abdulaziz Althumairy[Abdulaziz Althumairy](https://github.com/Aziz-Th)
+- [Abdulaziz Althumairy](https://github.com/Aziz-Th)
 
 
 
