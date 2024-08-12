@@ -1,7 +1,7 @@
 # ALLAM
 
 ## Group Zero Assessment
-### Team Members: Shayi, Mohammed, Abdulaziz
+### Team Members: Shayi Aldohaim, Mohammed Alhusini, Abdulaziz Althumairy
 
 ---
 
